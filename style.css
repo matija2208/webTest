@@ -1,0 +1,60 @@
+﻿#pozadina {
+    font-family: Consolas;
+    background-color: powderblue;
+}
+h1 
+{
+    color: #008800;
+    text-align:center;
+}
+h2
+{
+    color:#00aa00;
+    text-align:right;
+    margin-right:10px;
+}
+p {
+    margin-left:212px;
+    text-align:center;
+    font-family: Consolas;
+}
+p1
+{
+    color:#00ff00;
+}
+pi
+{
+    color:#ff0000;
+}
+pj
+{
+    color:#ff00ff;
+}
+
+#slika
+{
+    float:right;
+    margin-right: 25px;
+    width: 210px;
+    height: 280px;
+}
+
+a.one:link, a.one:visited {
+    background-color: #008800;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    /*margin-left: 910px;*/
+    text-decoration: none;
+    display: inline-block;
+}
+a.one:hover, a.one:active {
+    text-align: center;
+    background-color: #00aa00;
+}
+
+a#sl
+{
+    text-align: right;
+    float:right;
+}
